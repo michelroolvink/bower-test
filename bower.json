@@ -1,0 +1,19 @@
+{
+  "name": "bower-test",
+  "homepage": "https://github.com/michelroolvink/bower-test",
+  "authors": [
+    "michel.roolvink@trivento.nl"
+  ],
+  "description": "Test project to see how to package files in a package.",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "!src"
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
